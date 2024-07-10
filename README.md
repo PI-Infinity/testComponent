@@ -1,4 +1,5 @@
 NextJs@Lastest
+Style: TailwindCss
 
 ## Issue N1
 
