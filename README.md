@@ -1,5 +1,4 @@
-NextJs@Lastest
-Style: TailwindCss
+NextJs@Lastest, TailwindCss
 
 ## Issue N1
 
